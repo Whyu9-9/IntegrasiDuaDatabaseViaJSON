@@ -8,8 +8,7 @@
 </tr>
 <tr>
 <th>Ketentuan</th>	  
-<td>1.	Buatlah engine dengan bahasa pemrograman Python versi 3 yang berfungsi untuk menyimpan setiap perubahan yang terjadi kedalam file JSON/XML.<br>2.	Buatlah engine dengan bahasa pemrograman Python versi 3 yang berfungsi untuk membaca file JSON/XML dan menyesuaikan basisdata dengan perubahan data dalam file tersebut.
-NB. Apabila engine dapat mengirim file tersebut kedalam Cloud dan menyesuaikan ke database akan mendapat nilai maksimal.
+<td>1.	Buatlah engine dengan bahasa pemrograman Python versi 3 yang berfungsi untuk menyimpan setiap perubahan yang terjadi kedalam file JSON/XML.<br>2.	Buatlah engine dengan bahasa pemrograman Python versi 3 yang berfungsi untuk membaca file JSON/XML dan menyesuaikan basisdata dengan perubahan data dalam file tersebut.<br>NB. Apabila engine dapat mengirim file tersebut kedalam Cloud dan menyesuaikan ke database akan mendapat nilai maksimal.
 </td>
 </tr>
 </table>
